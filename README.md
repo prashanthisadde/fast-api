@@ -1,7 +1,7 @@
 # fast-api
 Get started with FastAPI with async db calls (MongoDB)
 
-## [Docker hub repo link](https://hub.docker.com/u/psdev21)
+## [Docker hub repo link](https://hub.docker.com/r/psdev21/fastapi)
 
 ## Environment variables:
 - It connects to the MongoDB using the below-listed environment variables
